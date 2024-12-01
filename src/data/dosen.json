@@ -1,0 +1,51 @@
+[
+    {
+        "nip": "123451",
+        "nama": "Syahrul Huda",
+        "alamat": "Jl. Anggrek",
+        "jenis_kelamin": "L",
+        "password": "syahrulll"
+    },
+    {
+        "nip": "123452",
+        "nama": "Bayu Faisal",
+        "alamat": "Jl. Melati",
+        "jenis_kelamin": "L",
+        "password": "bayufais"
+    },
+    {
+        "nip": "123453",
+        "nama": "Endang Martani",
+        "alamat": "Jl. Durian",
+        "jenis_kelamin": "P",
+        "password": "endang888"
+    },
+    {
+        "nip": "123454",
+        "nama": "Sri Wahyuni",
+        "alamat": "Jl. Manggis",
+        "jenis_kelamin": "P",
+        "password": "wahyusri"
+    },
+    {
+        "nip": "123455",
+        "nama": "Daga Data",
+        "alamat": "Jl. Mawar",
+        "jenis_kelamin": "L",
+        "password": "dagagaga"
+    },
+    {
+        "nip": "123456",
+        "nama": "Kopet Suyata",
+        "alamat": "Jl. Limau",
+        "jenis_kelamin": "L",
+        "password": "kosuyata"
+    },
+    {
+        "nip": "123457",
+        "nama": "Mutiara Sari",
+        "alamat": "Jl. Alpukat",
+        "jenis_kelamin": "P",
+        "password": "mutisari"
+    }
+]

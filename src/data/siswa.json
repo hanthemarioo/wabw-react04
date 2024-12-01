@@ -1,0 +1,58 @@
+[
+    {
+        "nisn": "12345",
+        "nama": "Fahri Ramadan",
+        "kelas": "Teknik Informatika - A",
+        "jenis_kelamin": "L",
+        "password": "fahrigantenk"
+    },
+    {
+        "nisn": "12346",
+        "nama": "Theo Nabato",
+        "kelas": "Teknik Informatika - A",
+        "jenis_kelamin": "L",
+        "password": "theogantenk"
+    },
+    {
+        "nisn": "12347",
+        "nama": "Dewi Nagasari",
+        "kelas": "Teknik Informatika - B",
+        "jenis_kelamin": "P",
+        "password": "dewidewi"
+    },
+    {
+        "nisn": "12348",
+        "nama": "Dea Manggarai",
+        "kelas": "Teknik Informatika - B",
+        "jenis_kelamin": "P",
+        "password": "deamangga"
+    },
+    {
+        "nisn": "12349",
+        "nama": "Dwi Sari",
+        "kelas": "Teknik Informatika - B",
+        "jenis_kelamin": "P",
+        "password": "dwisari"
+    },
+    {
+        "nisn": "12350",
+        "nama": "Achmad Ramadan",
+        "kelas": "Teknik Informatika - A",
+        "jenis_kelamin": "L",
+        "password": "achmad"
+    },
+    {
+        "nisn": "12351",
+        "nama": "Dewi Wisanggeni",
+        "kelas": "Teknik Informatika - B",
+        "jenis_kelamin": "P",
+        "password": "wisangdewi"
+    },
+    {
+        "nisn": "12352",
+        "nama": "Badai Terpal",
+        "kelas": "Teknik Informatika - B",
+        "jenis_kelamin": "L",
+        "password": "badai111"
+    }
+]
